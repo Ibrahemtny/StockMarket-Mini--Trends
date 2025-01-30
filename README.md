@@ -1,4 +1,5 @@
 # StockMarket(Mini)-Trends
+NOT MAIN/BULK PROJECT
 Stock Market Sentiment Analysis
 This project aims to perform sentiment analysis on Twitter posts (tweets) about a given stock symbol and correlate that sentiment with stock price movements. It uses Python, Natural Language Processing (NLP) with VADER for sentiment analysis, and Linear Regression to predict stock price changes based on sentiment.
 
