@@ -6,7 +6,7 @@ Stock Market Sentiment Analysis
 
 This project aims to perform sentiment analysis on Twitter posts (tweets) about a given stock symbol and correlate that sentiment with stock price movements. It uses Python, Natural Language Processing (NLP) with VADER for sentiment analysis, and Linear Regression to predict stock price changes based on sentiment.
 
-Features:
+FEATURES:
 Fetch stock price data using Yahoo Finance (yfinance).
 
 Fetch tweets mentioning a specific stock using the Twitter API.
@@ -17,7 +17,7 @@ Visualize the relationship between stock prices and sentiment.
 
 Build a Linear Regression model to predict stock price changes based on sentiment.
 
-Requirements:
+REQUIREMENTS:
 
 Before running the project, make sure you have the following Python libraries installed:
 
