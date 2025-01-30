@@ -12,10 +12,15 @@ Requirements:
 Before running the project, make sure you have the following Python libraries installed:
 
 yfinance – To fetch stock data.
+
 tweepy – To interact with the Twitter API.
+
 nltk – To perform sentiment analysis using VADER.
+
 pandas – For data manipulation and analysis.
+
 matplotlib – To visualize the data.
+
 sklearn – For building and evaluating a machine learning model.
 
 
